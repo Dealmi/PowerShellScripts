@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Discord",
+    "Id": 948,
+    "StartTime": "2021-04-23T15:44:40.7023531+03:00",
+    "PagedMemorySize": 34570240
+  },
+  {
+    "Name": "Discord",
+    "Id": 14092,
+    "StartTime": "2021-04-23T15:44:41.3942046+03:00",
+    "PagedMemorySize": 11268096
+  },
+  {
+    "Name": "Discord",
+    "Id": 2224,
+    "StartTime": "2021-04-23T15:44:41.5924375+03:00",
+    "PagedMemorySize": 24592384
+  },
+  {
+    "Name": "Discord",
+    "Id": 3684,
+    "StartTime": "2021-04-23T15:44:41.8870618+03:00",
+    "PagedMemorySize": 15237120
+  },
+  {
+    "Name": "Discord",
+    "Id": 14756,
+    "StartTime": "2021-04-23T15:44:45.4307925+03:00",
+    "PagedMemorySize": 205393920
+  },
+  {
+    "Name": "Discord",
+    "Id": 15312,
+    "StartTime": "2021-04-23T15:44:50.3257518+03:00",
+    "PagedMemorySize": 12812288
+  }
+]

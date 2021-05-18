@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Discord</Property>
+    <Property Name="Id" Type="System.Int32">948</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.04.2021 15:44:40</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">34570240</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Discord</Property>
+    <Property Name="Id" Type="System.Int32">14092</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.04.2021 15:44:41</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">11268096</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Discord</Property>
+    <Property Name="Id" Type="System.Int32">2224</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.04.2021 15:44:41</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">24592384</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Discord</Property>
+    <Property Name="Id" Type="System.Int32">3684</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.04.2021 15:44:41</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">15237120</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Discord</Property>
+    <Property Name="Id" Type="System.Int32">14756</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.04.2021 15:44:45</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">205393920</Property>
+  </Object>
+  <Object Type="System.Management.Automation.PSCustomObject">
+    <Property Name="Name" Type="System.String">Discord</Property>
+    <Property Name="Id" Type="System.Int32">15312</Property>
+    <Property Name="StartTime" Type="System.DateTime">23.04.2021 15:44:50</Property>
+    <Property Name="PagedMemorySize" Type="System.Int32">12812288</Property>
+  </Object>
+</Objects>
